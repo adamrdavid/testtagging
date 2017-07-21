@@ -7,7 +7,7 @@
       }
     }
   },
-  "newstuff": {
+  "mappednewstuff": {
     "name": "This is new stuff",
     "children": {
       "newchild": {
