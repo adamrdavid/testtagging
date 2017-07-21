@@ -6,5 +6,13 @@
         "name": "This child is old"
       }
     }
+  },
+  "newstuff": {
+    "name": "This is new stuff",
+    "children": {
+      "newchild": {
+        "name": "This child is new"
+      }
+    }
   }
 }
